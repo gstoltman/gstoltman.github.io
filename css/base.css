@@ -41,7 +41,7 @@ hgroup,
 main,
 menu,
 nav,
-section,
+section,bgrid
 summary {
 	display: block;
 }
@@ -640,7 +640,7 @@ textarea {
 }
 
 .block-1-2 .bgrid {
-	width: 50%;
+	width: 100%;
 }
 
 /**

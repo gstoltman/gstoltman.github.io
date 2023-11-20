@@ -392,6 +392,8 @@ img.pull-left {
  */
 .bgrid {
 	padding: 0 20px;
+	width: 100%;
+	box-sizing: border-box;
 }
 @media only screen and (max-width:1024px) {
 	.bgrid {
@@ -1798,6 +1800,7 @@ header .logo a {
 	padding: 0;
 	position: relative;
 	overflow: hidden;
+	margin-bottom: 20px;
 }
 #portfolio .folio-item img {
 	vertical-align: middle;
